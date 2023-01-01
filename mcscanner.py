@@ -1,7 +1,7 @@
 #// SUPER SILVER SCANNER FOR Minecrap
 #// Excludes version and players from output file.
 
-from mcstatus import MinecraftServer
+from mcstatus import JavaServer
 import os
 import threading
 import time
