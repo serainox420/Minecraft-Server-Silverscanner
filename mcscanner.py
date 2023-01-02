@@ -6,11 +6,13 @@ import os
 import threading
 import time
 
+ports = (25565,8080)
+
 masscan = []
 
-print('Silver fork of deathsiefat scanner')
-
-
+print('Silverfork of deathsiefat scanner')
+print('V2.1')
+print('Beeep Booop!  Beeep Booop?')
 print('       /"-.                      ')
 print('      / \--`.  __..-,O           ')
 print('     :   \ --  _..- .            ')
@@ -85,7 +87,7 @@ def print_time(threadName):
             threadName.exit()
         try:
             ip = z
-            server = MinecraftServer(ip,25565)
+            server = JavaServer(ip,-ports)
             status = server.status()
         except:
             print("No Server Found:" + ip)
