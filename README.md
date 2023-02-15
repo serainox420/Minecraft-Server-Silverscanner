@@ -1,6 +1,8 @@
-# Mc-Network-scan-Silverfork-
-Fork of [robertdavidgraham/masscan] with slight optimization of process runtime &amp; clean IP list output. [excluding version and playerlist from output file]
+# Minecraft Server Scanner [$ilver-fork]
 
+# ![image](https://i.imgur.com/IuSFc5i.gif)
+
+Fork of [robertdavidgraham/masscan] with slight optimization of process runtime &amp; clean IP list output. [excluding version and playerlist from output file]
 `# Minecraft-Server-Scanner
 Let's you scan the entire internet in a couple of hours and identify all Minecraft servers on IPV4
 
