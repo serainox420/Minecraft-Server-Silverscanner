@@ -21,6 +21,7 @@ python3 silverscanner.py
 **DISCLAIMER: THIS IS FOR EDUCATIONAL PURPOSES ONLY AND I AM NOT RESPONSIBLE FOR ANY MISUSE OF THESE TOOLS!**
 
 FORKED BY SILVERAINOX [Silvershell.INC]`
+```
 
 # UPDATED ENTRY POINT FOR SZMELC COMMANDER 
-# `exec.sh` -> `main.py` -> `masscan.sh & silver.py`
+### `exec.sh` -> `main.py` -> `masscan.sh & silver.py`
